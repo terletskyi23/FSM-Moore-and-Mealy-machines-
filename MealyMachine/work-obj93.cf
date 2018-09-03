@@ -1,0 +1,4 @@
+v 3
+file . "seqdetb.vhdl" "20180903100159.000" "20180903130222.774":
+  entity seqdetb at 1( 0) + 0 on 13;
+  architecture seqdetb of seqdetb at 13( 187) + 0 on 14;
