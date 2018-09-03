@@ -1,0 +1,7 @@
+v 3
+file . "seqdeta.vhdl" "20180903090458.000" "20180903121325.408":
+  entity seqdeta at 1( 0) + 0 on 17;
+  architecture seqdeta of seqdeta at 13( 187) + 0 on 18;
+file . "seqdeta_tb.vhdl" "20180903092216.000" "20180903122222.400":
+  entity seqdeta_tb at 1( 0) + 0 on 23;
+  architecture test of seqdeta_tb at 7( 82) + 0 on 24;
