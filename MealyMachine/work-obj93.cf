@@ -1,4 +1,7 @@
 v 3
+file . "seqdetb_tb.vhdl" "20180903100536.000" "20180903130548.367":
+  entity seqdetb_tb at 1( 0) + 0 on 15;
+  architecture test of seqdetb_tb at 7( 82) + 0 on 16;
 file . "seqdetb.vhdl" "20180903100159.000" "20180903130222.774":
   entity seqdetb at 1( 0) + 0 on 13;
   architecture seqdetb of seqdetb at 13( 187) + 0 on 14;
